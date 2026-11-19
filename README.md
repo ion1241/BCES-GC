@@ -264,6 +264,7 @@ The following upstream products are required for full repetition of the complete
 - The complete MAG FASTA collection.
 - Individual per-sample ORF abundance tables.
 - Database and taxonomy files used by upstream annotation pipelines.
+This files are available at BioStudies repository accession S-BSST1815 https://www.ebi.ac.uk/biostudies/studies/S-BSST1815
 
 ## Citation
 
